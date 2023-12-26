@@ -6,5 +6,4 @@
 <h4>Name : Rahul Singh</h4> 
 
 
-Objective: Differentiate between real and fake news using a Python project applying a passive-aggressive classifier.
-Detecting fake news is a critical challenge in today's information age. In this project, we will use Python to build a machine learning model to differentiate between real and fake news. We will apply a passive-aggressive classifier, a popular algorithm for text classification. By the end of this project, you will have a better understanding of data exploration, model building, and performance evaluation in text classification.
+Objective: Analyzing Uber trips can provide valuable insights into ride patterns, helping optimize services and improve customer experiences. In this project, we will analyze Uber ride data to detect patterns and relationships between different variables using Python. We'll perform data exploration, uncover hidden patterns, and visualize the relationships discovered in the data.
